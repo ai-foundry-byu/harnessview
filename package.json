@@ -1,0 +1,53 @@
+{
+  "name": "harnessview",
+  "version": "0.1.0",
+  "description": "Visually inspect your Claude Code agent harness — a local, zero-config graph of your subagents, MCP servers, skills, commands, and hooks.",
+  "type": "module",
+  "bin": {
+    "harnessview": "bin/harnessview.mjs"
+  },
+  "files": [
+    "bin",
+    "dist"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n ui,server -c cyan,magenta \"vite\" \"tsx watch src/server/index.ts\"",
+    "dev:ui": "vite",
+    "dev:server": "tsx watch src/server/index.ts",
+    "scan": "tsx src/adapters/cli-scan.ts",
+    "build": "vite build && tsc -p tsconfig.server.json",
+    "start": "node dist/server/index.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.server.json --noEmit"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "agents",
+    "mcp",
+    "visualization",
+    "devtools",
+    "harness"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@xyflow/react": "^12.3.5",
+    "elkjs": "^0.9.3",
+    "framer-motion": "^11.11.0",
+    "lucide-react": "^0.451.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.0",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "concurrently": "^9.0.1",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.8"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
