@@ -75,3 +75,9 @@ npm start        # run the built server
 ## License
 
 MIT
+
+---
+
+## Related Tools
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: give any AI agent deep personal context. 4 templates + 5 skills. MIT, one-command install.
