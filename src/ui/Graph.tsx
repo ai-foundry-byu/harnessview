@@ -87,7 +87,10 @@ function filterVisible(data: HarnessGraph, collapsed: Record<string, boolean>): 
 function countsByGroup(data: HarnessGraph | undefined): Record<string, number> {
   if (!data) return {};
   const counts: Record<string, number> = {};
-  for (const n of data.nodes) counts[n.group_id] = (counts[n.group_id] ?? 0) + 1;
+  for (const n of data.nodes) {
+    if (n.kind === 'hub') continue; // hub is structural; don't count it
+    counts[n.group_id] = (counts[n.group_id] ?? 0) + 1;
+  }
   return counts;
 }
 

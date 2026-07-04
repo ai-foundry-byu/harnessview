@@ -67,6 +67,14 @@ const KIND_STYLES: Record<string, KindStyle> = {
     glow: 'rgba(244,114,182,0.22)', textColor: '#F9A8D4', emoji: '🪝',
     width: 160, height: 78, layer: 'last',
   },
+  // Category hub: sits between root and leaf groups (agents, MCPs, skills…).
+  // Gives ELK a 3-level tree so MULTI_EDGE wrapping folds correctly instead of
+  // rendering all leaves in one wide row. Hub nodes collapse with their group.
+  hub: {
+    label: '', accent: '#555577', bg: 'rgba(14,14,24,0.62)',
+    glow: 'rgba(85,85,119,0.10)', textColor: '#8888AA', emoji: '◈',
+    width: 136, height: 76, layer: 'normal',
+  },
 };
 
 // ── Small fs + parse helpers ────────────────────────────────────────────────
@@ -497,6 +505,47 @@ export const claudeCodeAdapter: Adapter = {
     }
     const broken = nodes.filter((n) => n.data.status === 'error').length;
     if (broken > 0) stats['Broken'] = broken;
+
+    // ── Hub nodes: insert category hubs between root and leaf groups ──────
+    // Without hub nodes, root → N leaves is a pure star that ELK's MULTI_EDGE
+    // wrapping doesn't fold — all leaves render as one wide row. Adding a hub
+    // per group gives ELK a 3-level tree (root → hub → leaves) that it wraps
+    // correctly. Hub nodes share their group_id so they collapse with the group.
+    for (const group of groups) {
+      if (group.id === 'g-root') continue;
+      const leafIds = new Set(nodes.filter((n) => n.group_id === group.id).map((n) => n.id));
+      if (leafIds.size === 0) continue;
+      const hubId = `hub:${group.id}`;
+      const leafKs = KIND_STYLES[group.kind];
+      nodes.push({
+        id: hubId,
+        kind: 'hub',
+        label: group.label,
+        group_id: group.id,
+        data: {
+          status: 'idle',
+          kind: 'hub',
+          emoji: leafKs?.emoji ?? '◈',
+          description: `${leafIds.size} ${group.label.toLowerCase()}`,
+          source: root,
+          subtitle: String(leafIds.size),
+        },
+      });
+      // Re-route every root→leaf edge through the hub.
+      for (const e of edges) {
+        if (e.source === 'root' && leafIds.has(e.target)) {
+          e.source = hubId;
+        }
+      }
+      // Root → hub (always hierarchy).
+      edges.push({
+        id: `e${++edgeSeq}:root->${hubId}`,
+        source: 'root',
+        target: hubId,
+        kind: 'hierarchy',
+        animated: false,
+      });
+    }
 
     return {
       generated_at: new Date().toISOString(),
