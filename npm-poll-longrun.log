@@ -1,0 +1,468 @@
+[2026-07-05T09:49:19.635Z] === npm-poll-longrun starting (24h window) ===
+[2026-07-05T09:49:19.635Z] === npm-poll-longrun starting (24h window) ===
+[2026-07-05T09:49:20.013Z] Session URL: https://www.npmjs.com/login?next=/login/cli/7807b74f-9be2-4e21-aea1-55980d024800
+[2026-07-05T09:49:20.013Z] Session URL: https://www.npmjs.com/login?next=/login/cli/7807b74f-9be2-4e21-aea1-55980d024800
+[2026-07-05T09:49:20.069Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/7807b74f-9be2-4e21-aea1-55980d024800
+[2026-07-05T09:49:20.069Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/7807b74f-9be2-4e21-aea1-55980d024800
+[2026-07-05T09:49:25.180Z] Waiting for login... (1440min remaining)
+[2026-07-05T09:49:25.180Z] Waiting for login... (1440min remaining)
+[2026-07-05T09:54:25.130Z] Session expired — renewing...
+[2026-07-05T09:54:25.130Z] Session expired — renewing...
+[2026-07-05T09:54:25.193Z] Session URL: https://www.npmjs.com/login?next=/login/cli/feef43f6-75e8-43e9-9354-7dc7ccb3e929
+[2026-07-05T09:54:25.193Z] Session URL: https://www.npmjs.com/login?next=/login/cli/feef43f6-75e8-43e9-9354-7dc7ccb3e929
+[2026-07-05T09:54:25.244Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/feef43f6-75e8-43e9-9354-7dc7ccb3e929
+[2026-07-05T09:54:25.244Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/feef43f6-75e8-43e9-9354-7dc7ccb3e929
+[2026-07-05T09:54:25.245Z] Telegram drop: drop-npm-longrun-1783245265245.json
+[2026-07-05T09:54:25.245Z] Telegram drop: drop-npm-longrun-1783245265245.json
+[2026-07-05T09:54:30.369Z] Waiting for login... (1435min remaining)
+[2026-07-05T09:54:30.369Z] Waiting for login... (1435min remaining)
+[2026-07-05T09:59:29.554Z] Session expired — renewing...
+[2026-07-05T09:59:29.554Z] Session expired — renewing...
+[2026-07-05T09:59:29.687Z] Session URL: https://www.npmjs.com/login?next=/login/cli/6d42b927-e096-4526-9db8-c25b9a2d13b2
+[2026-07-05T09:59:29.687Z] Session URL: https://www.npmjs.com/login?next=/login/cli/6d42b927-e096-4526-9db8-c25b9a2d13b2
+[2026-07-05T09:59:29.752Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/6d42b927-e096-4526-9db8-c25b9a2d13b2
+[2026-07-05T09:59:29.752Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/6d42b927-e096-4526-9db8-c25b9a2d13b2
+[2026-07-05T09:59:29.753Z] Telegram drop: drop-npm-longrun-1783245569753.json
+[2026-07-05T09:59:29.753Z] Telegram drop: drop-npm-longrun-1783245569753.json
+[2026-07-05T09:59:34.812Z] Waiting for login... (1430min remaining)
+[2026-07-05T09:59:34.812Z] Waiting for login... (1430min remaining)
+[2026-07-05T10:04:34.512Z] Session expired — renewing...
+[2026-07-05T10:04:34.512Z] Session expired — renewing...
+[2026-07-05T10:04:34.573Z] Session URL: https://www.npmjs.com/login?next=/login/cli/28e9dc2c-8c0a-44c3-b0f2-63937f5274bf
+[2026-07-05T10:04:34.573Z] Session URL: https://www.npmjs.com/login?next=/login/cli/28e9dc2c-8c0a-44c3-b0f2-63937f5274bf
+[2026-07-05T10:04:34.626Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/28e9dc2c-8c0a-44c3-b0f2-63937f5274bf
+[2026-07-05T10:04:34.626Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/28e9dc2c-8c0a-44c3-b0f2-63937f5274bf
+[2026-07-05T10:04:34.626Z] Telegram drop: drop-npm-longrun-1783245874626.json
+[2026-07-05T10:04:34.626Z] Telegram drop: drop-npm-longrun-1783245874626.json
+[2026-07-05T10:04:39.695Z] Waiting for login... (1425min remaining)
+[2026-07-05T10:04:39.695Z] Waiting for login... (1425min remaining)
+[2026-07-05T10:09:39.484Z] Session expired — renewing...
+[2026-07-05T10:09:39.484Z] Session expired — renewing...
+[2026-07-05T10:09:39.546Z] Session URL: https://www.npmjs.com/login?next=/login/cli/86f009d9-74ec-4603-bb00-4bc2047ba0d8
+[2026-07-05T10:09:39.546Z] Session URL: https://www.npmjs.com/login?next=/login/cli/86f009d9-74ec-4603-bb00-4bc2047ba0d8
+[2026-07-05T10:09:39.609Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/86f009d9-74ec-4603-bb00-4bc2047ba0d8
+[2026-07-05T10:09:39.609Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/86f009d9-74ec-4603-bb00-4bc2047ba0d8
+[2026-07-05T10:09:39.610Z] Telegram drop: drop-npm-longrun-1783246179609.json
+[2026-07-05T10:09:39.610Z] Telegram drop: drop-npm-longrun-1783246179609.json
+[2026-07-05T10:09:44.731Z] Waiting for login... (1420min remaining)
+[2026-07-05T10:09:44.731Z] Waiting for login... (1420min remaining)
+[2026-07-05T10:14:39.548Z] Session expired — renewing...
+[2026-07-05T10:14:39.548Z] Session expired — renewing...
+[2026-07-05T10:14:39.618Z] Session URL: https://www.npmjs.com/login?next=/login/cli/aae65122-458a-4e5b-ae5b-b4565cd63aa4
+[2026-07-05T10:14:39.618Z] Session URL: https://www.npmjs.com/login?next=/login/cli/aae65122-458a-4e5b-ae5b-b4565cd63aa4
+[2026-07-05T10:14:39.685Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/aae65122-458a-4e5b-ae5b-b4565cd63aa4
+[2026-07-05T10:14:39.685Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/aae65122-458a-4e5b-ae5b-b4565cd63aa4
+[2026-07-05T10:14:39.685Z] Telegram drop: drop-npm-longrun-1783246479685.json
+[2026-07-05T10:14:39.685Z] Telegram drop: drop-npm-longrun-1783246479685.json
+[2026-07-05T10:14:44.749Z] Waiting for login... (1415min remaining)
+[2026-07-05T10:14:44.749Z] Waiting for login... (1415min remaining)
+[2026-07-05T10:19:44.160Z] Session expired — renewing...
+[2026-07-05T10:19:44.160Z] Session expired — renewing...
+[2026-07-05T10:19:44.238Z] Session URL: https://www.npmjs.com/login?next=/login/cli/9297fbfe-86e9-4710-b8a1-4a9bd825374f
+[2026-07-05T10:19:44.238Z] Session URL: https://www.npmjs.com/login?next=/login/cli/9297fbfe-86e9-4710-b8a1-4a9bd825374f
+[2026-07-05T10:19:44.308Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/9297fbfe-86e9-4710-b8a1-4a9bd825374f
+[2026-07-05T10:19:44.308Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/9297fbfe-86e9-4710-b8a1-4a9bd825374f
+[2026-07-05T10:19:44.309Z] Telegram drop: drop-npm-longrun-1783246784309.json
+[2026-07-05T10:19:44.309Z] Telegram drop: drop-npm-longrun-1783246784309.json
+[2026-07-05T10:19:49.368Z] Waiting for login... (1410min remaining)
+[2026-07-05T10:19:49.368Z] Waiting for login... (1410min remaining)
+[2026-07-05T10:24:49.084Z] Session expired — renewing...
+[2026-07-05T10:24:49.084Z] Session expired — renewing...
+[2026-07-05T10:24:49.147Z] Session URL: https://www.npmjs.com/login?next=/login/cli/3a4b15c4-8623-4903-8084-511d0d0690a2
+[2026-07-05T10:24:49.147Z] Session URL: https://www.npmjs.com/login?next=/login/cli/3a4b15c4-8623-4903-8084-511d0d0690a2
+[2026-07-05T10:24:49.274Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/3a4b15c4-8623-4903-8084-511d0d0690a2
+[2026-07-05T10:24:49.274Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/3a4b15c4-8623-4903-8084-511d0d0690a2
+[2026-07-05T10:24:49.275Z] Telegram drop: drop-npm-longrun-1783247089275.json
+[2026-07-05T10:24:49.275Z] Telegram drop: drop-npm-longrun-1783247089275.json
+[2026-07-05T10:24:54.367Z] Waiting for login... (1404min remaining)
+[2026-07-05T10:24:54.367Z] Waiting for login... (1404min remaining)
+[2026-07-05T10:29:54.024Z] Session expired — renewing...
+[2026-07-05T10:29:54.024Z] Session expired — renewing...
+[2026-07-05T10:29:54.101Z] Session URL: https://www.npmjs.com/login?next=/login/cli/83cc80b2-d79a-4047-b030-582776172349
+[2026-07-05T10:29:54.101Z] Session URL: https://www.npmjs.com/login?next=/login/cli/83cc80b2-d79a-4047-b030-582776172349
+[2026-07-05T10:29:54.154Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/83cc80b2-d79a-4047-b030-582776172349
+[2026-07-05T10:29:54.154Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/83cc80b2-d79a-4047-b030-582776172349
+[2026-07-05T10:29:54.155Z] Telegram drop: drop-npm-longrun-1783247394154.json
+[2026-07-05T10:29:54.155Z] Telegram drop: drop-npm-longrun-1783247394154.json
+[2026-07-05T10:29:59.229Z] Waiting for login... (1399min remaining)
+[2026-07-05T10:29:59.229Z] Waiting for login... (1399min remaining)
+[2026-07-05T10:34:58.990Z] Session expired — renewing...
+[2026-07-05T10:34:58.990Z] Session expired — renewing...
+[2026-07-05T10:34:59.060Z] Session URL: https://www.npmjs.com/login?next=/login/cli/901ea479-72ab-46b3-84f4-2acba1bee806
+[2026-07-05T10:34:59.060Z] Session URL: https://www.npmjs.com/login?next=/login/cli/901ea479-72ab-46b3-84f4-2acba1bee806
+[2026-07-05T10:34:59.133Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/901ea479-72ab-46b3-84f4-2acba1bee806
+[2026-07-05T10:34:59.133Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/901ea479-72ab-46b3-84f4-2acba1bee806
+[2026-07-05T10:34:59.133Z] Telegram drop: drop-npm-longrun-1783247699133.json
+[2026-07-05T10:34:59.133Z] Telegram drop: drop-npm-longrun-1783247699133.json
+[2026-07-05T10:35:04.208Z] Waiting for login... (1394min remaining)
+[2026-07-05T10:35:04.208Z] Waiting for login... (1394min remaining)
+[2026-07-05T10:40:03.817Z] Session expired — renewing...
+[2026-07-05T10:40:03.817Z] Session expired — renewing...
+[2026-07-05T10:40:03.958Z] Session URL: https://www.npmjs.com/login?next=/login/cli/550a77ff-d53d-40cd-a3a5-64eb976747b0
+[2026-07-05T10:40:03.958Z] Session URL: https://www.npmjs.com/login?next=/login/cli/550a77ff-d53d-40cd-a3a5-64eb976747b0
+[2026-07-05T10:40:04.019Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/550a77ff-d53d-40cd-a3a5-64eb976747b0
+[2026-07-05T10:40:04.019Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/550a77ff-d53d-40cd-a3a5-64eb976747b0
+[2026-07-05T10:40:04.020Z] Telegram drop: drop-npm-longrun-1783248004020.json
+[2026-07-05T10:40:04.020Z] Telegram drop: drop-npm-longrun-1783248004020.json
+[2026-07-05T10:40:09.087Z] Waiting for login... (1389min remaining)
+[2026-07-05T10:40:09.087Z] Waiting for login... (1389min remaining)
+[2026-07-05T10:45:08.614Z] Session expired — renewing...
+[2026-07-05T10:45:08.614Z] Session expired — renewing...
+[2026-07-05T10:45:08.685Z] Session URL: https://www.npmjs.com/login?next=/login/cli/80e4f4a6-9097-471a-a4ab-41dcb1bb3283
+[2026-07-05T10:45:08.685Z] Session URL: https://www.npmjs.com/login?next=/login/cli/80e4f4a6-9097-471a-a4ab-41dcb1bb3283
+[2026-07-05T10:45:08.743Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/80e4f4a6-9097-471a-a4ab-41dcb1bb3283
+[2026-07-05T10:45:08.743Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/80e4f4a6-9097-471a-a4ab-41dcb1bb3283
+[2026-07-05T10:45:08.743Z] Telegram drop: drop-npm-longrun-1783248308743.json
+[2026-07-05T10:45:08.743Z] Telegram drop: drop-npm-longrun-1783248308743.json
+[2026-07-05T10:45:13.865Z] Waiting for login... (1384min remaining)
+[2026-07-05T10:45:13.865Z] Waiting for login... (1384min remaining)
+[2026-07-05T10:50:12.879Z] Session expired — renewing...
+[2026-07-05T10:50:12.879Z] Session expired — renewing...
+[2026-07-05T10:50:12.949Z] Session URL: https://www.npmjs.com/login?next=/login/cli/d843d88b-07f7-431d-ba20-401571868e2e
+[2026-07-05T10:50:12.949Z] Session URL: https://www.npmjs.com/login?next=/login/cli/d843d88b-07f7-431d-ba20-401571868e2e
+[2026-07-05T10:50:13.013Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/d843d88b-07f7-431d-ba20-401571868e2e
+[2026-07-05T10:50:13.013Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/d843d88b-07f7-431d-ba20-401571868e2e
+[2026-07-05T10:50:13.013Z] Telegram drop: drop-npm-longrun-1783248613013.json
+[2026-07-05T10:50:13.013Z] Telegram drop: drop-npm-longrun-1783248613013.json
+[2026-07-05T10:50:18.078Z] Waiting for login... (1379min remaining)
+[2026-07-05T10:50:18.078Z] Waiting for login... (1379min remaining)
+[2026-07-05T10:55:17.502Z] Session expired — renewing...
+[2026-07-05T10:55:17.502Z] Session expired — renewing...
+[2026-07-05T10:55:17.576Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f58babe1-410b-4902-bf76-38560105021b
+[2026-07-05T10:55:17.576Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f58babe1-410b-4902-bf76-38560105021b
+[2026-07-05T10:55:17.719Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f58babe1-410b-4902-bf76-38560105021b
+[2026-07-05T10:55:17.719Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f58babe1-410b-4902-bf76-38560105021b
+[2026-07-05T10:55:17.720Z] Telegram drop: drop-npm-longrun-1783248917720.json
+[2026-07-05T10:55:17.720Z] Telegram drop: drop-npm-longrun-1783248917720.json
+[2026-07-05T10:55:22.824Z] Waiting for login... (1374min remaining)
+[2026-07-05T10:55:22.824Z] Waiting for login... (1374min remaining)
+[2026-07-05T11:00:17.738Z] Session expired — renewing...
+[2026-07-05T11:00:17.738Z] Session expired — renewing...
+[2026-07-05T11:00:17.804Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ae2974d4-0912-4c44-bfd3-a06d487f9263
+[2026-07-05T11:00:17.804Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ae2974d4-0912-4c44-bfd3-a06d487f9263
+[2026-07-05T11:00:17.875Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ae2974d4-0912-4c44-bfd3-a06d487f9263
+[2026-07-05T11:00:17.875Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ae2974d4-0912-4c44-bfd3-a06d487f9263
+[2026-07-05T11:00:17.876Z] Telegram drop: drop-npm-longrun-1783249217876.json
+[2026-07-05T11:00:17.876Z] Telegram drop: drop-npm-longrun-1783249217876.json
+[2026-07-05T11:00:22.982Z] Waiting for login... (1369min remaining)
+[2026-07-05T11:00:22.982Z] Waiting for login... (1369min remaining)
+[2026-07-05T11:05:22.687Z] Session expired — renewing...
+[2026-07-05T11:05:22.687Z] Session expired — renewing...
+[2026-07-05T11:05:22.814Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ffd03887-6526-4ab7-a50f-040c184d76f0
+[2026-07-05T11:05:22.814Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ffd03887-6526-4ab7-a50f-040c184d76f0
+[2026-07-05T11:05:22.875Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ffd03887-6526-4ab7-a50f-040c184d76f0
+[2026-07-05T11:05:22.875Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ffd03887-6526-4ab7-a50f-040c184d76f0
+[2026-07-05T11:05:22.875Z] Telegram drop: drop-npm-longrun-1783249522875.json
+[2026-07-05T11:05:22.875Z] Telegram drop: drop-npm-longrun-1783249522875.json
+[2026-07-05T11:05:27.951Z] Waiting for login... (1364min remaining)
+[2026-07-05T11:05:27.951Z] Waiting for login... (1364min remaining)
+[2026-07-05T11:10:27.632Z] Session expired — renewing...
+[2026-07-05T11:10:27.632Z] Session expired — renewing...
+[2026-07-05T11:10:27.691Z] Session URL: https://www.npmjs.com/login?next=/login/cli/b17bdbef-465b-4b33-8611-8c1425e11df9
+[2026-07-05T11:10:27.691Z] Session URL: https://www.npmjs.com/login?next=/login/cli/b17bdbef-465b-4b33-8611-8c1425e11df9
+[2026-07-05T11:10:27.747Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/b17bdbef-465b-4b33-8611-8c1425e11df9
+[2026-07-05T11:10:27.747Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/b17bdbef-465b-4b33-8611-8c1425e11df9
+[2026-07-05T11:10:27.747Z] Telegram drop: drop-npm-longrun-1783249827747.json
+[2026-07-05T11:10:27.747Z] Telegram drop: drop-npm-longrun-1783249827747.json
+[2026-07-05T11:10:32.812Z] Waiting for login... (1359min remaining)
+[2026-07-05T11:10:32.812Z] Waiting for login... (1359min remaining)
+[2026-07-05T11:15:32.391Z] Session expired — renewing...
+[2026-07-05T11:15:32.391Z] Session expired — renewing...
+[2026-07-05T11:15:32.450Z] Session URL: https://www.npmjs.com/login?next=/login/cli/bc9ace63-327d-4794-a7ce-8d2a02b2879c
+[2026-07-05T11:15:32.450Z] Session URL: https://www.npmjs.com/login?next=/login/cli/bc9ace63-327d-4794-a7ce-8d2a02b2879c
+[2026-07-05T11:15:32.526Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/bc9ace63-327d-4794-a7ce-8d2a02b2879c
+[2026-07-05T11:15:32.526Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/bc9ace63-327d-4794-a7ce-8d2a02b2879c
+[2026-07-05T11:15:32.527Z] Telegram drop: drop-npm-longrun-1783250132526.json
+[2026-07-05T11:15:32.527Z] Telegram drop: drop-npm-longrun-1783250132526.json
+[2026-07-05T11:15:37.598Z] Waiting for login... (1354min remaining)
+[2026-07-05T11:15:37.598Z] Waiting for login... (1354min remaining)
+[2026-07-05T11:20:37.053Z] Session expired — renewing...
+[2026-07-05T11:20:37.053Z] Session expired — renewing...
+[2026-07-05T11:20:37.173Z] Session URL: https://www.npmjs.com/login?next=/login/cli/0e5ee6d8-fbfd-4b25-bdfd-ed93287630ac
+[2026-07-05T11:20:37.173Z] Session URL: https://www.npmjs.com/login?next=/login/cli/0e5ee6d8-fbfd-4b25-bdfd-ed93287630ac
+[2026-07-05T11:20:37.256Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/0e5ee6d8-fbfd-4b25-bdfd-ed93287630ac
+[2026-07-05T11:20:37.256Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/0e5ee6d8-fbfd-4b25-bdfd-ed93287630ac
+[2026-07-05T11:20:37.257Z] Telegram drop: drop-npm-longrun-1783250437256.json
+[2026-07-05T11:20:37.257Z] Telegram drop: drop-npm-longrun-1783250437256.json
+[2026-07-05T11:20:42.413Z] Waiting for login... (1349min remaining)
+[2026-07-05T11:20:42.413Z] Waiting for login... (1349min remaining)
+[2026-07-05T11:25:37.249Z] Session expired — renewing...
+[2026-07-05T11:25:37.249Z] Session expired — renewing...
+[2026-07-05T11:25:37.322Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ddfd08ee-b480-441f-a86f-e354b03099d3
+[2026-07-05T11:25:37.322Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ddfd08ee-b480-441f-a86f-e354b03099d3
+[2026-07-05T11:25:37.506Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ddfd08ee-b480-441f-a86f-e354b03099d3
+[2026-07-05T11:25:37.506Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ddfd08ee-b480-441f-a86f-e354b03099d3
+[2026-07-05T11:25:37.507Z] Telegram drop: drop-npm-longrun-1783250737507.json
+[2026-07-05T11:25:37.507Z] Telegram drop: drop-npm-longrun-1783250737507.json
+[2026-07-05T11:25:42.577Z] Waiting for login... (1344min remaining)
+[2026-07-05T11:25:42.577Z] Waiting for login... (1344min remaining)
+[2026-07-05T11:30:42.237Z] Session expired — renewing...
+[2026-07-05T11:30:42.237Z] Session expired — renewing...
+[2026-07-05T11:30:42.311Z] Session URL: https://www.npmjs.com/login?next=/login/cli/125790f5-86c3-4bf7-804f-57bb81974f9f
+[2026-07-05T11:30:42.311Z] Session URL: https://www.npmjs.com/login?next=/login/cli/125790f5-86c3-4bf7-804f-57bb81974f9f
+[2026-07-05T11:30:42.367Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/125790f5-86c3-4bf7-804f-57bb81974f9f
+[2026-07-05T11:30:42.367Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/125790f5-86c3-4bf7-804f-57bb81974f9f
+[2026-07-05T11:30:42.368Z] Telegram drop: drop-npm-longrun-1783251042368.json
+[2026-07-05T11:30:42.368Z] Telegram drop: drop-npm-longrun-1783251042368.json
+[2026-07-05T11:30:47.499Z] Waiting for login... (1339min remaining)
+[2026-07-05T11:30:47.499Z] Waiting for login... (1339min remaining)
+[2026-07-05T11:35:47.213Z] Session expired — renewing...
+[2026-07-05T11:35:47.213Z] Session expired — renewing...
+[2026-07-05T11:35:47.327Z] Session URL: https://www.npmjs.com/login?next=/login/cli/125932d2-2d96-47a8-bdf6-c168f87b035d
+[2026-07-05T11:35:47.327Z] Session URL: https://www.npmjs.com/login?next=/login/cli/125932d2-2d96-47a8-bdf6-c168f87b035d
+[2026-07-05T11:35:47.383Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/125932d2-2d96-47a8-bdf6-c168f87b035d
+[2026-07-05T11:35:47.383Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/125932d2-2d96-47a8-bdf6-c168f87b035d
+[2026-07-05T11:35:47.383Z] Telegram drop: drop-npm-longrun-1783251347383.json
+[2026-07-05T11:35:47.383Z] Telegram drop: drop-npm-longrun-1783251347383.json
+[2026-07-05T11:35:52.447Z] Waiting for login... (1333min remaining)
+[2026-07-05T11:35:52.447Z] Waiting for login... (1333min remaining)
+[2026-07-05T11:40:47.970Z] Session expired — renewing...
+[2026-07-05T11:40:47.970Z] Session expired — renewing...
+[2026-07-05T11:40:48.042Z] Session URL: https://www.npmjs.com/login?next=/login/cli/fe08d714-7534-4741-8939-0befdf2bf8d1
+[2026-07-05T11:40:48.042Z] Session URL: https://www.npmjs.com/login?next=/login/cli/fe08d714-7534-4741-8939-0befdf2bf8d1
+[2026-07-05T11:40:48.216Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/fe08d714-7534-4741-8939-0befdf2bf8d1
+[2026-07-05T11:40:48.216Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/fe08d714-7534-4741-8939-0befdf2bf8d1
+[2026-07-05T11:40:48.217Z] Telegram drop: drop-npm-longrun-1783251648216.json
+[2026-07-05T11:40:48.217Z] Telegram drop: drop-npm-longrun-1783251648216.json
+[2026-07-05T11:40:53.278Z] Waiting for login... (1328min remaining)
+[2026-07-05T11:40:53.278Z] Waiting for login... (1328min remaining)
+[2026-07-05T11:45:52.748Z] Session expired — renewing...
+[2026-07-05T11:45:52.748Z] Session expired — renewing...
+[2026-07-05T11:45:52.880Z] Session URL: https://www.npmjs.com/login?next=/login/cli/513f1761-66d9-4d69-9c1d-9f582750d513
+[2026-07-05T11:45:52.880Z] Session URL: https://www.npmjs.com/login?next=/login/cli/513f1761-66d9-4d69-9c1d-9f582750d513
+[2026-07-05T11:45:52.942Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/513f1761-66d9-4d69-9c1d-9f582750d513
+[2026-07-05T11:45:52.942Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/513f1761-66d9-4d69-9c1d-9f582750d513
+[2026-07-05T11:45:52.942Z] Telegram drop: drop-npm-longrun-1783251952942.json
+[2026-07-05T11:45:52.942Z] Telegram drop: drop-npm-longrun-1783251952942.json
+[2026-07-05T11:45:58.018Z] Waiting for login... (1323min remaining)
+[2026-07-05T11:45:58.018Z] Waiting for login... (1323min remaining)
+[2026-07-05T11:50:57.688Z] Session expired — renewing...
+[2026-07-05T11:50:57.688Z] Session expired — renewing...
+[2026-07-05T11:50:57.755Z] Session URL: https://www.npmjs.com/login?next=/login/cli/0d920954-6597-4d6d-b5df-d225571a2b9f
+[2026-07-05T11:50:57.755Z] Session URL: https://www.npmjs.com/login?next=/login/cli/0d920954-6597-4d6d-b5df-d225571a2b9f
+[2026-07-05T11:50:57.815Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/0d920954-6597-4d6d-b5df-d225571a2b9f
+[2026-07-05T11:50:57.815Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/0d920954-6597-4d6d-b5df-d225571a2b9f
+[2026-07-05T11:50:57.816Z] Telegram drop: drop-npm-longrun-1783252257815.json
+[2026-07-05T11:50:57.816Z] Telegram drop: drop-npm-longrun-1783252257815.json
+[2026-07-05T11:51:02.882Z] Waiting for login... (1318min remaining)
+[2026-07-05T11:51:02.882Z] Waiting for login... (1318min remaining)
+[2026-07-05T11:55:58.307Z] Session expired — renewing...
+[2026-07-05T11:55:58.307Z] Session expired — renewing...
+[2026-07-05T11:55:58.420Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f5b134fa-bc28-49f9-be9a-0757930f8147
+[2026-07-05T11:55:58.420Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f5b134fa-bc28-49f9-be9a-0757930f8147
+[2026-07-05T11:55:58.482Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f5b134fa-bc28-49f9-be9a-0757930f8147
+[2026-07-05T11:55:58.482Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f5b134fa-bc28-49f9-be9a-0757930f8147
+[2026-07-05T11:55:58.483Z] Telegram drop: drop-npm-longrun-1783252558482.json
+[2026-07-05T11:55:58.483Z] Telegram drop: drop-npm-longrun-1783252558482.json
+[2026-07-05T11:56:03.664Z] Waiting for login... (1313min remaining)
+[2026-07-05T11:56:03.664Z] Waiting for login... (1313min remaining)
+[2026-07-05T12:00:59.946Z] Session expired — renewing...
+[2026-07-05T12:00:59.946Z] Session expired — renewing...
+[2026-07-05T12:01:00.014Z] Session URL: https://www.npmjs.com/login?next=/login/cli/b2056062-4c48-459a-93fc-a15a188308c2
+[2026-07-05T12:01:00.014Z] Session URL: https://www.npmjs.com/login?next=/login/cli/b2056062-4c48-459a-93fc-a15a188308c2
+[2026-07-05T12:01:00.070Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/b2056062-4c48-459a-93fc-a15a188308c2
+[2026-07-05T12:01:00.070Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/b2056062-4c48-459a-93fc-a15a188308c2
+[2026-07-05T12:01:00.070Z] Telegram drop: drop-npm-longrun-1783252860070.json
+[2026-07-05T12:01:00.070Z] Telegram drop: drop-npm-longrun-1783252860070.json
+[2026-07-05T12:01:05.181Z] Waiting for login... (1308min remaining)
+[2026-07-05T12:01:05.181Z] Waiting for login... (1308min remaining)
+[2026-07-05T12:06:04.902Z] Session expired — renewing...
+[2026-07-05T12:06:04.902Z] Session expired — renewing...
+[2026-07-05T12:06:05.023Z] Session URL: https://www.npmjs.com/login?next=/login/cli/3e8a3f71-0678-4562-9ee4-b4e9e6292792
+[2026-07-05T12:06:05.023Z] Session URL: https://www.npmjs.com/login?next=/login/cli/3e8a3f71-0678-4562-9ee4-b4e9e6292792
+[2026-07-05T12:06:05.069Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/3e8a3f71-0678-4562-9ee4-b4e9e6292792
+[2026-07-05T12:06:05.069Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/3e8a3f71-0678-4562-9ee4-b4e9e6292792
+[2026-07-05T12:06:05.070Z] Telegram drop: drop-npm-longrun-1783253165069.json
+[2026-07-05T12:06:05.070Z] Telegram drop: drop-npm-longrun-1783253165069.json
+[2026-07-05T12:06:10.124Z] Waiting for login... (1303min remaining)
+[2026-07-05T12:06:10.124Z] Waiting for login... (1303min remaining)
+[2026-07-05T12:11:05.311Z] Session expired — renewing...
+[2026-07-05T12:11:05.311Z] Session expired — renewing...
+[2026-07-05T12:11:05.438Z] Session URL: https://www.npmjs.com/login?next=/login/cli/0d59ae98-1ef1-423c-bd4f-fe027199efaa
+[2026-07-05T12:11:05.438Z] Session URL: https://www.npmjs.com/login?next=/login/cli/0d59ae98-1ef1-423c-bd4f-fe027199efaa
+[2026-07-05T12:11:05.607Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/0d59ae98-1ef1-423c-bd4f-fe027199efaa
+[2026-07-05T12:11:05.607Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/0d59ae98-1ef1-423c-bd4f-fe027199efaa
+[2026-07-05T12:11:05.609Z] Telegram drop: drop-npm-longrun-1783253465608.json
+[2026-07-05T12:11:05.609Z] Telegram drop: drop-npm-longrun-1783253465608.json
+[2026-07-05T12:11:10.733Z] Waiting for login... (1298min remaining)
+[2026-07-05T12:11:10.733Z] Waiting for login... (1298min remaining)
+[2026-07-05T12:16:06.091Z] Session expired — renewing...
+[2026-07-05T12:16:06.091Z] Session expired — renewing...
+[2026-07-05T12:16:06.175Z] Session URL: https://www.npmjs.com/login?next=/login/cli/9dd65d2e-e8db-4421-84bd-2b5610e93115
+[2026-07-05T12:16:06.175Z] Session URL: https://www.npmjs.com/login?next=/login/cli/9dd65d2e-e8db-4421-84bd-2b5610e93115
+[2026-07-05T12:16:06.219Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/9dd65d2e-e8db-4421-84bd-2b5610e93115
+[2026-07-05T12:16:06.219Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/9dd65d2e-e8db-4421-84bd-2b5610e93115
+[2026-07-05T12:16:06.219Z] Telegram drop: drop-npm-longrun-1783253766219.json
+[2026-07-05T12:16:06.219Z] Telegram drop: drop-npm-longrun-1783253766219.json
+[2026-07-05T12:16:11.297Z] Waiting for login... (1293min remaining)
+[2026-07-05T12:16:11.297Z] Waiting for login... (1293min remaining)
+[2026-07-05T12:21:06.323Z] Session expired — renewing...
+[2026-07-05T12:21:06.323Z] Session expired — renewing...
+[2026-07-05T12:21:06.392Z] Session URL: https://www.npmjs.com/login?next=/login/cli/7753ede7-90b0-4bf5-9757-538e6d2f427a
+[2026-07-05T12:21:06.392Z] Session URL: https://www.npmjs.com/login?next=/login/cli/7753ede7-90b0-4bf5-9757-538e6d2f427a
+[2026-07-05T12:21:06.447Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/7753ede7-90b0-4bf5-9757-538e6d2f427a
+[2026-07-05T12:21:06.447Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/7753ede7-90b0-4bf5-9757-538e6d2f427a
+[2026-07-05T12:21:06.448Z] Telegram drop: drop-npm-longrun-1783254066448.json
+[2026-07-05T12:21:06.448Z] Telegram drop: drop-npm-longrun-1783254066448.json
+[2026-07-05T12:21:11.884Z] Waiting for login... (1288min remaining)
+[2026-07-05T12:21:11.884Z] Waiting for login... (1288min remaining)
+[2026-07-05T12:26:06.879Z] Session expired — renewing...
+[2026-07-05T12:26:06.879Z] Session expired — renewing...
+[2026-07-05T12:26:06.935Z] Session URL: https://www.npmjs.com/login?next=/login/cli/e065b07d-bdd5-41f2-9d8a-01ff29b9ffa8
+[2026-07-05T12:26:06.935Z] Session URL: https://www.npmjs.com/login?next=/login/cli/e065b07d-bdd5-41f2-9d8a-01ff29b9ffa8
+[2026-07-05T12:26:06.980Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/e065b07d-bdd5-41f2-9d8a-01ff29b9ffa8
+[2026-07-05T12:26:06.980Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/e065b07d-bdd5-41f2-9d8a-01ff29b9ffa8
+[2026-07-05T12:26:06.981Z] Telegram drop: drop-npm-longrun-1783254366981.json
+[2026-07-05T12:26:06.981Z] Telegram drop: drop-npm-longrun-1783254366981.json
+[2026-07-05T12:26:12.965Z] Waiting for login... (1283min remaining)
+[2026-07-05T12:26:12.965Z] Waiting for login... (1283min remaining)
+[2026-07-05T12:31:09.409Z] Session expired — renewing...
+[2026-07-05T12:31:09.409Z] Session expired — renewing...
+[2026-07-05T12:31:09.473Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ffc82913-be48-48f5-9e2a-f6028492178b
+[2026-07-05T12:31:09.473Z] Session URL: https://www.npmjs.com/login?next=/login/cli/ffc82913-be48-48f5-9e2a-f6028492178b
+[2026-07-05T12:31:09.585Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ffc82913-be48-48f5-9e2a-f6028492178b
+[2026-07-05T12:31:09.585Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/ffc82913-be48-48f5-9e2a-f6028492178b
+[2026-07-05T12:31:09.586Z] Telegram drop: drop-npm-longrun-1783254669585.json
+[2026-07-05T12:31:09.586Z] Telegram drop: drop-npm-longrun-1783254669585.json
+[2026-07-05T12:31:14.654Z] Waiting for login... (1278min remaining)
+[2026-07-05T12:31:14.654Z] Waiting for login... (1278min remaining)
+[2026-07-05T12:36:09.989Z] Session expired — renewing...
+[2026-07-05T12:36:09.989Z] Session expired — renewing...
+[2026-07-05T12:36:10.124Z] Session URL: https://www.npmjs.com/login?next=/login/cli/a0236330-d768-40f7-8f76-428196ca9f9a
+[2026-07-05T12:36:10.124Z] Session URL: https://www.npmjs.com/login?next=/login/cli/a0236330-d768-40f7-8f76-428196ca9f9a
+[2026-07-05T12:36:10.168Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/a0236330-d768-40f7-8f76-428196ca9f9a
+[2026-07-05T12:36:10.168Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/a0236330-d768-40f7-8f76-428196ca9f9a
+[2026-07-05T12:36:10.169Z] Telegram drop: drop-npm-longrun-1783254970169.json
+[2026-07-05T12:36:10.169Z] Telegram drop: drop-npm-longrun-1783254970169.json
+[2026-07-05T12:36:15.234Z] Waiting for login... (1273min remaining)
+[2026-07-05T12:36:15.234Z] Waiting for login... (1273min remaining)
+[2026-07-05T12:41:11.119Z] Session expired — renewing...
+[2026-07-05T12:41:11.119Z] Session expired — renewing...
+[2026-07-05T12:41:11.182Z] Session URL: https://www.npmjs.com/login?next=/login/cli/7486f6ac-5bd4-40e7-bd5e-d4237f06b170
+[2026-07-05T12:41:11.182Z] Session URL: https://www.npmjs.com/login?next=/login/cli/7486f6ac-5bd4-40e7-bd5e-d4237f06b170
+[2026-07-05T12:41:11.239Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/7486f6ac-5bd4-40e7-bd5e-d4237f06b170
+[2026-07-05T12:41:11.239Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/7486f6ac-5bd4-40e7-bd5e-d4237f06b170
+[2026-07-05T12:41:11.240Z] Telegram drop: drop-npm-longrun-1783255271240.json
+[2026-07-05T12:41:11.240Z] Telegram drop: drop-npm-longrun-1783255271240.json
+[2026-07-05T12:41:16.358Z] Waiting for login... (1268min remaining)
+[2026-07-05T12:41:16.358Z] Waiting for login... (1268min remaining)
+[2026-07-05T12:46:15.886Z] Session expired — renewing...
+[2026-07-05T12:46:15.886Z] Session expired — renewing...
+[2026-07-05T12:46:16.090Z] Session URL: https://www.npmjs.com/login?next=/login/cli/c61c4cbf-3da4-4382-8f5a-c6b0c1d387a4
+[2026-07-05T12:46:16.090Z] Session URL: https://www.npmjs.com/login?next=/login/cli/c61c4cbf-3da4-4382-8f5a-c6b0c1d387a4
+[2026-07-05T12:46:16.137Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/c61c4cbf-3da4-4382-8f5a-c6b0c1d387a4
+[2026-07-05T12:46:16.137Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/c61c4cbf-3da4-4382-8f5a-c6b0c1d387a4
+[2026-07-05T12:46:16.138Z] Telegram drop: drop-npm-longrun-1783255576137.json
+[2026-07-05T12:46:16.138Z] Telegram drop: drop-npm-longrun-1783255576137.json
+[2026-07-05T12:46:21.446Z] Waiting for login... (1263min remaining)
+[2026-07-05T12:46:21.446Z] Waiting for login... (1263min remaining)
+[2026-07-05T12:51:20.848Z] Session expired — renewing...
+[2026-07-05T12:51:20.848Z] Session expired — renewing...
+[2026-07-05T12:51:20.914Z] Session URL: https://www.npmjs.com/login?next=/login/cli/19ff0a04-5fb3-4f75-9d5b-830e6f602a52
+[2026-07-05T12:51:20.914Z] Session URL: https://www.npmjs.com/login?next=/login/cli/19ff0a04-5fb3-4f75-9d5b-830e6f602a52
+[2026-07-05T12:51:20.967Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/19ff0a04-5fb3-4f75-9d5b-830e6f602a52
+[2026-07-05T12:51:20.967Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/19ff0a04-5fb3-4f75-9d5b-830e6f602a52
+[2026-07-05T12:51:20.968Z] Telegram drop: drop-npm-longrun-1783255880968.json
+[2026-07-05T12:51:20.968Z] Telegram drop: drop-npm-longrun-1783255880968.json
+[2026-07-05T12:51:26.096Z] Waiting for login... (1258min remaining)
+[2026-07-05T12:51:26.096Z] Waiting for login... (1258min remaining)
+[2026-07-05T12:56:25.820Z] Session expired — renewing...
+[2026-07-05T12:56:25.820Z] Session expired — renewing...
+[2026-07-05T12:56:25.937Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f333e886-2772-4f27-98b2-267aa1f66ef0
+[2026-07-05T12:56:25.937Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f333e886-2772-4f27-98b2-267aa1f66ef0
+[2026-07-05T12:56:25.979Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f333e886-2772-4f27-98b2-267aa1f66ef0
+[2026-07-05T12:56:25.979Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f333e886-2772-4f27-98b2-267aa1f66ef0
+[2026-07-05T12:56:25.981Z] Telegram drop: drop-npm-longrun-1783256185980.json
+[2026-07-05T12:56:25.981Z] Telegram drop: drop-npm-longrun-1783256185980.json
+[2026-07-05T12:56:31.192Z] Waiting for login... (1253min remaining)
+[2026-07-05T12:56:31.192Z] Waiting for login... (1253min remaining)
+[2026-07-05T13:01:26.349Z] Session expired — renewing...
+[2026-07-05T13:01:26.349Z] Session expired — renewing...
+[2026-07-05T13:01:26.418Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f53f2afa-c472-457e-8a07-ec83d2463e75
+[2026-07-05T13:01:26.418Z] Session URL: https://www.npmjs.com/login?next=/login/cli/f53f2afa-c472-457e-8a07-ec83d2463e75
+[2026-07-05T13:01:26.577Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f53f2afa-c472-457e-8a07-ec83d2463e75
+[2026-07-05T13:01:26.577Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/f53f2afa-c472-457e-8a07-ec83d2463e75
+[2026-07-05T13:01:26.577Z] Telegram drop: drop-npm-longrun-1783256486577.json
+[2026-07-05T13:01:26.577Z] Telegram drop: drop-npm-longrun-1783256486577.json
+[2026-07-05T13:01:31.641Z] Waiting for login... (1248min remaining)
+[2026-07-05T13:01:31.641Z] Waiting for login... (1248min remaining)
+[2026-07-05T13:06:28.748Z] Session expired — renewing...
+[2026-07-05T13:06:28.748Z] Session expired — renewing...
+[2026-07-05T13:06:28.865Z] Session URL: https://www.npmjs.com/login?next=/login/cli/59d024b6-7603-4e2a-95f1-220fe4571b6f
+[2026-07-05T13:06:28.865Z] Session URL: https://www.npmjs.com/login?next=/login/cli/59d024b6-7603-4e2a-95f1-220fe4571b6f
+[2026-07-05T13:06:29.033Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/59d024b6-7603-4e2a-95f1-220fe4571b6f
+[2026-07-05T13:06:29.033Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/59d024b6-7603-4e2a-95f1-220fe4571b6f
+[2026-07-05T13:06:29.033Z] Telegram drop: drop-npm-longrun-1783256789033.json
+[2026-07-05T13:06:29.033Z] Telegram drop: drop-npm-longrun-1783256789033.json
+[2026-07-05T13:06:34.160Z] Waiting for login... (1243min remaining)
+[2026-07-05T13:06:34.160Z] Waiting for login... (1243min remaining)
+[2026-07-05T13:11:29.325Z] Session expired — renewing...
+[2026-07-05T13:11:29.325Z] Session expired — renewing...
+[2026-07-05T13:11:29.465Z] Session URL: https://www.npmjs.com/login?next=/login/cli/283fa42e-55c1-43d4-a4ed-349e3a86d6b2
+[2026-07-05T13:11:29.465Z] Session URL: https://www.npmjs.com/login?next=/login/cli/283fa42e-55c1-43d4-a4ed-349e3a86d6b2
+[2026-07-05T13:11:29.549Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/283fa42e-55c1-43d4-a4ed-349e3a86d6b2
+[2026-07-05T13:11:29.549Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/283fa42e-55c1-43d4-a4ed-349e3a86d6b2
+[2026-07-05T13:11:29.549Z] Telegram drop: drop-npm-longrun-1783257089549.json
+[2026-07-05T13:11:29.549Z] Telegram drop: drop-npm-longrun-1783257089549.json
+[2026-07-05T13:11:34.784Z] Waiting for login... (1238min remaining)
+[2026-07-05T13:11:34.784Z] Waiting for login... (1238min remaining)
+[2026-07-05T13:16:29.951Z] Session expired — renewing...
+[2026-07-05T13:16:29.951Z] Session expired — renewing...
+[2026-07-05T13:16:30.018Z] Session URL: https://www.npmjs.com/login?next=/login/cli/93e5044d-c7cf-4b72-8906-0a4e7d0dfb97
+[2026-07-05T13:16:30.018Z] Session URL: https://www.npmjs.com/login?next=/login/cli/93e5044d-c7cf-4b72-8906-0a4e7d0dfb97
+[2026-07-05T13:16:30.071Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/93e5044d-c7cf-4b72-8906-0a4e7d0dfb97
+[2026-07-05T13:16:30.071Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/93e5044d-c7cf-4b72-8906-0a4e7d0dfb97
+[2026-07-05T13:16:30.072Z] Telegram drop: drop-npm-longrun-1783257390072.json
+[2026-07-05T13:16:30.072Z] Telegram drop: drop-npm-longrun-1783257390072.json
+[2026-07-05T13:16:35.136Z] Waiting for login... (1233min remaining)
+[2026-07-05T13:16:35.136Z] Waiting for login... (1233min remaining)
+[2026-07-05T13:21:31.210Z] Session expired — renewing...
+[2026-07-05T13:21:31.210Z] Session expired — renewing...
+[2026-07-05T13:21:31.287Z] Session URL: https://www.npmjs.com/login?next=/login/cli/1fcfbb26-f505-4740-8e95-4b8d3d0dce36
+[2026-07-05T13:21:31.287Z] Session URL: https://www.npmjs.com/login?next=/login/cli/1fcfbb26-f505-4740-8e95-4b8d3d0dce36
+[2026-07-05T13:21:31.376Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/1fcfbb26-f505-4740-8e95-4b8d3d0dce36
+[2026-07-05T13:21:31.376Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/1fcfbb26-f505-4740-8e95-4b8d3d0dce36
+[2026-07-05T13:21:31.377Z] Telegram drop: drop-npm-longrun-1783257691376.json
+[2026-07-05T13:21:31.377Z] Telegram drop: drop-npm-longrun-1783257691376.json
+[2026-07-05T13:21:36.444Z] Waiting for login... (1228min remaining)
+[2026-07-05T13:21:36.444Z] Waiting for login... (1228min remaining)
+[2026-07-05T13:26:35.975Z] Session expired — renewing...
+[2026-07-05T13:26:35.975Z] Session expired — renewing...
+[2026-07-05T13:26:36.042Z] Session URL: https://www.npmjs.com/login?next=/login/cli/2d4b689b-ad57-4137-8e36-20a147acc0d6
+[2026-07-05T13:26:36.042Z] Session URL: https://www.npmjs.com/login?next=/login/cli/2d4b689b-ad57-4137-8e36-20a147acc0d6
+[2026-07-05T13:26:36.098Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/2d4b689b-ad57-4137-8e36-20a147acc0d6
+[2026-07-05T13:26:36.098Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/2d4b689b-ad57-4137-8e36-20a147acc0d6
+[2026-07-05T13:26:36.099Z] Telegram drop: drop-npm-longrun-1783257996098.json
+[2026-07-05T13:26:36.099Z] Telegram drop: drop-npm-longrun-1783257996098.json
+[2026-07-05T13:26:41.165Z] Waiting for login... (1223min remaining)
+[2026-07-05T13:26:41.165Z] Waiting for login... (1223min remaining)
+[2026-07-05T13:31:41.066Z] Session expired — renewing...
+[2026-07-05T13:31:41.066Z] Session expired — renewing...
+[2026-07-05T13:31:41.140Z] Session URL: https://www.npmjs.com/login?next=/login/cli/77181c97-cedc-49e4-8821-4f7bacaba3b4
+[2026-07-05T13:31:41.140Z] Session URL: https://www.npmjs.com/login?next=/login/cli/77181c97-cedc-49e4-8821-4f7bacaba3b4
+[2026-07-05T13:31:41.206Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/77181c97-cedc-49e4-8821-4f7bacaba3b4
+[2026-07-05T13:31:41.206Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/77181c97-cedc-49e4-8821-4f7bacaba3b4
+[2026-07-05T13:31:41.207Z] Telegram drop: drop-npm-longrun-1783258301206.json
+[2026-07-05T13:31:41.207Z] Telegram drop: drop-npm-longrun-1783258301206.json
+[2026-07-05T13:31:46.277Z] Waiting for login... (1218min remaining)
+[2026-07-05T13:31:46.277Z] Waiting for login... (1218min remaining)
+[2026-07-05T13:36:45.714Z] Session expired — renewing...
+[2026-07-05T13:36:45.714Z] Session expired — renewing...
+[2026-07-05T13:36:45.773Z] Session URL: https://www.npmjs.com/login?next=/login/cli/38bf48f5-6a32-4acf-8ce9-a9cc18e7dbfa
+[2026-07-05T13:36:45.773Z] Session URL: https://www.npmjs.com/login?next=/login/cli/38bf48f5-6a32-4acf-8ce9-a9cc18e7dbfa
+[2026-07-05T13:36:45.823Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/38bf48f5-6a32-4acf-8ce9-a9cc18e7dbfa
+[2026-07-05T13:36:45.823Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/38bf48f5-6a32-4acf-8ce9-a9cc18e7dbfa
+[2026-07-05T13:36:45.823Z] Telegram drop: drop-npm-longrun-1783258605823.json
+[2026-07-05T13:36:45.823Z] Telegram drop: drop-npm-longrun-1783258605823.json
+[2026-07-05T13:36:51.715Z] Waiting for login... (1212min remaining)
+[2026-07-05T13:36:51.715Z] Waiting for login... (1212min remaining)
+[2026-07-05T13:41:46.319Z] Session expired — renewing...
+[2026-07-05T13:41:46.319Z] Session expired — renewing...
+[2026-07-05T13:41:46.450Z] Session URL: https://www.npmjs.com/login?next=/login/cli/2042e382-abb6-4f42-af41-85353477bcae
+[2026-07-05T13:41:46.450Z] Session URL: https://www.npmjs.com/login?next=/login/cli/2042e382-abb6-4f42-af41-85353477bcae
+[2026-07-05T13:41:46.499Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/2042e382-abb6-4f42-af41-85353477bcae
+[2026-07-05T13:41:46.499Z] Browser opened: https://www.npmjs.com/login?next=/login/cli/2042e382-abb6-4f42-af41-85353477bcae
+[2026-07-05T13:41:46.500Z] Telegram drop: drop-npm-longrun-1783258906500.json
+[2026-07-05T13:41:46.500Z] Telegram drop: drop-npm-longrun-1783258906500.json
+[2026-07-05T13:41:51.565Z] Waiting for login... (1207min remaining)
+[2026-07-05T13:41:51.565Z] Waiting for login... (1207min remaining)

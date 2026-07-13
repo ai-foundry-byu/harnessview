@@ -8,7 +8,7 @@
 - (none yet)
 
 ## External
-- Repo: TBD
+- Repo: https://github.com/JDDavenport/harnessview
 - Deployed URL: TBD
 - PRD: TBD
 - Related docs: TBD
